@@ -27,7 +27,7 @@ I am a Test Analyst currently training in test automation and eager to learn.
 
 ---
 
-### 🧰 Tech & Tools
+### 🧰 Technology and Tools in Learning
 
 **Test Automation**
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
